@@ -33,8 +33,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\13.core-bot\CoreBot.csproj" />
-  </ItemGroup>
-
 </Project>
